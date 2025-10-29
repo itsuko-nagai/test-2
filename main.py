@@ -1,2 +1,4 @@
 import random
-print("hello world")
+
+print("hello hi")
+print("hello anay")
